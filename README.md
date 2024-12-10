@@ -82,3 +82,15 @@ The chatbot saves the conversation history in a CSV file (`chat_log.csv`). You c
 Contributions to this project are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
 
 ---
+#Outcome:
+A fully functional chatbot capable of understanding and responding to natural language inputs, providing an interactive and user-friendly experience.
+
+## Acknowledgments
+- **NLTK** for natural language processing.
+- **Scikit-learn** for machine learning algorithms.
+- **Streamlit** for building the web interface.
+
+---
+
+Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
+
