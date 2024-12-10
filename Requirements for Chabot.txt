@@ -1,0 +1,6 @@
+1. nltk
+2. streamlit
+3. scikit-learn
+4. streamlit_modal
+5. streamlit_extras
+6. python-3.13.0-amd64
