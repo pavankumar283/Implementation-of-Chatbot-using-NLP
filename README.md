@@ -50,3 +50,35 @@ nltk.download('punkt')
 6. The chatbot is powered by an NLP model and can provide responses based on the conversation's context.
 
 7. To stop the chatbot, simply close the Streamlit interface or the terminal where it's running.
+
+   ## Technologies Used
+- **Python**
+- **NLTK**
+- **Scikit-learn**
+- **Streamlit**
+- **JSON** for intents data
+
+  ## Usage
+To run the chatbot application, execute the following command:
+```bash
+streamlit run app.py
+```
+
+Once the application is running, you can interact with the chatbot through the web interface. Type your message in the input box and press Enter to see the chatbot's response.
+
+---
+
+## Intents Data
+The chatbot's behavior is defined by the `intents.json` file, which contains various tags, patterns, and responses. You can modify this file to add new intents or change existing ones.
+
+---
+
+## Conversation History
+The chatbot saves the conversation history in a CSV file (`chat_log.csv`). You can view past interactions by selecting the "Conversation History" option in the sidebar.
+
+---
+
+## Contributing
+Contributions to this project are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
+
+---
