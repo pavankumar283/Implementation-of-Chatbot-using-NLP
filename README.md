@@ -1,4 +1,29 @@
 # Implementation-of-Chatbot-using-NLP
+
+## Installation
+
+### 1. Clone the Repository
+```bash
+git clone <repository-url>
+cd <repository-directory>
+```
+
+### 2. Create a Virtual Environment (Optional but Recommended)
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+### 3. Install Required Packages
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Download NLTK Data
+```python
+import nltk
+nltk.download('punkt')
+```
 ## Prerequisites
 
 Before you can run this chatbot, make sure you have the following prerequisites installed:
