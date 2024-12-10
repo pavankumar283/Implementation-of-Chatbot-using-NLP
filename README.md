@@ -1,8 +1,7 @@
 # Implementation-of-Chatbot-using-NLP
 ## Overview
 Develop a conversational chatbot that can understand and respond to user queries using Natural Language Processing (NLP) techniques.
-
-##Description:
+Description:
 This project involves creating an interactive chatbot that uses NLP to process and understand natural language input. The chatbot will simulate human conversation, providing responses based on the user's input. It can be designed to handle tasks like answering frequently asked questions, assisting with navigation, or offering general information.
 ## Installation
 
