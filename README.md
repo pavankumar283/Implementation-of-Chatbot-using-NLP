@@ -17,7 +17,7 @@ pip install streamlit openai toml
 
 1. Upon running the application, a Streamlit interface will open in your web browser.
 
-2. You will see a chat interface with a message input box labeled "What is up?"
+2. You will see a chat interface with a message input box labelled "What is up?"
 
 3. Start a conversation by typing a message in the input box and pressing Enter.
 
@@ -25,6 +25,6 @@ pip install streamlit openai toml
 
 5. The conversation history will be displayed in the chat interface, with user and assistant messages shown.
 
-6. The chatbot is powered by the GPT-3.5 model, and it can provide responses based on the context of the conversation.
+6. The chatbot is powered by an NLP model and can provide responses based on the conversation's context.
 
 7. To stop the chatbot, simply close the Streamlit interface or the terminal where it's running.
