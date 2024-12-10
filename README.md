@@ -1,8 +1,10 @@
 # Implementation-of-Chatbot-using-NLP
 ## Overview
 Develop a conversational chatbot that can understand and respond to user queries using Natural Language Processing (NLP) techniques.
-Description:
+
+## Description:
 This project involves creating an interactive chatbot that uses NLP to process and understand natural language input. The chatbot will simulate human conversation, providing responses based on the user's input. It can be designed to handle tasks like answering frequently asked questions, assisting with navigation, or offering general information.
+
 ## Installation
 
 ### 1. Clone the Repository
@@ -27,19 +29,11 @@ pip install -r requirements.txt
 import nltk
 nltk.download('punkt')
 ```
-## Prerequisites
-
-Before you can run this chatbot, make sure you have the following prerequisites installed:
-
-- Python
-- Streamlit
-- OpenAI Python SDK
-- TOML library
-
-You can install the required libraries using `pip`:
-
-```bash
-pip install streamlit openai toml
+## Features
+- Understands various user intents such as greetings, farewells, gratitude, and more.
+- Provides relevant responses based on user input.
+- Maintains a conversation history that can be viewed by the user.
+- Built using Python and leverages popular libraries for NLP and machine learning.
 
 ## How to Use
 
